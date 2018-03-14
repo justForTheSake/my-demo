@@ -1,0 +1,2 @@
+This is sample text file made in command line
+to submit
